@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -Wall -save-temps filename.c –o filename
+ gcc -c $CFILE
