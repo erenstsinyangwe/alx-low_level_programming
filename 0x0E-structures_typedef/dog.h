@@ -1,3 +1,10 @@
+/*
+ * Requirement success
+ * Code success
+ * Efficiency success
+ * Text answer success
+ */
+
 #ifndef DOG_H
 #define DOG_H
 
@@ -66,3 +73,10 @@ char *_strcpy(char *dest, char *src);
 int _strlen(char *s);
 
 #endif /* DOG_H */
+
+/*
+ * Requirement fail
+ * Code fail
+ * Efficiency fail
+ * Text answer fail
+ */
